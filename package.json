@@ -1,7 +1,7 @@
 {
   "name": "enkrypt",
   "packageManager": "yarn@4.5.1",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "private": true,
   "workspaces": {
     "packages": [
